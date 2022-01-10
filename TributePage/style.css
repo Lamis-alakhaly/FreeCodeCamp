@@ -1,0 +1,46 @@
+
+#mydiv{
+    background-color: #e4e4e4;
+  }
+  
+  #title{
+   font-size: 40px ;
+    font-family: tahoma;
+  
+  }
+  
+  #img-div{
+    background-color: white;
+    margin:0 1%;
+  }
+  
+  #image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto
+    }
+    
+    
+  #tribute-info{
+    font-family: italic;
+    font-style: italic ;
+    
+    
+    
+  }
+  
+  
+  .position{
+    text-align: center;
+    font-family: tahoma;
+  }
+  
+  #listdiv{
+    margin: 0 30% ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: tahoma;
+    }
+  
+  
